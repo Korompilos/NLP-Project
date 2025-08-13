@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.env/
+.venv/
+
+# Conda environment files
+*.conda
+*.yml
+
+# Poetry files
+poetry.lock
+
+# Large/binary files
+*.bin
+*.gz
+*.txt
+
+# Optional: ignore data folder
+data/
